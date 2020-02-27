@@ -56,3 +56,5 @@ a given list
 
 14. Write a program which can map() and filter() to make a list whose elements are cube of
 even number in a given list
+
+Author:Siril Sam
